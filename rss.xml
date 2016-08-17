@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Vital Branding]]></title>
+        <description><![CDATA[Vital Branding]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 20:19:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spotify's Design Lead on Why Side Projects Should Be Stupid]]></title>
+            <description><![CDATA[<article><h1>Spotify's Design Lead on Why Side Projects Should Be Stupid</h1><p>Tobias van Schneider lives his life like one big side project. Today, he designs and builds new products for Spotify in New York, but he couldn't have predicted that when he dropped out of school at age 15 to work as an apprentice in a computer shop in Austria.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a15bbcf7ceff042db7db65027bef712e/noop.jpg?input=http%3A%2F%2Fs3.amazonaws.com%2Fmarquee-test-akiaisur2rgicbmpehea%2FOn3IelOFRhqJWCN0qchQ_MGP_6064.jpg"></article>]]></description>
+            <link>http://firstround.com/review/Spotifys-Design-Lead-on-Why-Side-Projects-Should-be-Stupid/</link>
+            <guid isPermaLink="false">1623c3dc-e4c1-4b62-a670-9c21eb8628c0</guid>
+            <pubDate>Wed, 17 Aug 2016 20:19:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
