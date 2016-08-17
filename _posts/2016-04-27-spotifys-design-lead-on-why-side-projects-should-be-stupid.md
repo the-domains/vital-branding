@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T20:19:01.959Z'
+datePublished: '2016-08-17T20:36:28.768Z'
 sourcePath: >-
   _posts/2016-04-27-spotifys-design-lead-on-why-side-projects-should-be-stupid.md
 inFeed: true
@@ -31,26 +31,19 @@ related:
       http://s3.amazonaws.com/marquee-test-akiaisur2rgicbmpehea/8A0V9qL9TTic0g9CdcXm_Dave%20Hero.jpg
     thumbnail_width: 640
 author: []
-dateModified: '2016-08-17T20:19:01.638Z'
-title: Spotify's Design Lead on Why Side Projects Should Be Stupid
+via: {}
+dateModified: '2016-08-17T20:36:27.949Z'
+title: logo
 app_links: []
-publisher:
-  url: 'http://firstround.com'
-  name: Firstround
-  favicon: >-
-    http://firstround.com/review/assets/4e440f8526049d7b32d0efd423e87a26/images/favicon.ico
-  domain: firstround.com
-description: >-
-  Tobias van Schneider lives his life like one big side project. Today, he
-  designs and builds new products for Spotify in New York, but he couldn't have
-  predicted that when he dropped out of school at age 15 to work as an
-  apprentice in a computer shop in Austria.
+publisher: {}
+description: ''
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Spotify's Design Lead on Why Side Projects Should Be Stupid</h1><p>Tobias van Schneider lives his life like one big side project. Today, he designs and builds new products for Spotify in New York, but he couldn't have predicted that when he dropped out of school at age 15 to work as an apprentice in a computer shop in Austria.</p><img src="http://s3.amazonaws.com/marquee-test-akiaisur2rgicbmpehea/On3IelOFRhqJWCN0qchQ_MGP_6064.jpg" /></article>
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e4f6b29670718238085c45bba2c124b6/croprotate.png?cropheight=22&cropwidth=76&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8ad410d4-7227-4c75-8767-bcc3c10eb57d.png&x=2&y=7)
+
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cbe313da3d1b5606d1eafef39a6e06bb364cc71.jpg" /><h1>Spotify's Design Lead on Why Side Projects Should Be Stupid</h1><p>Tobias van Schneider lives his life like one big side project. Today, he designs and builds new products for Spotify in New York, but he couldn't have predicted that when he dropped out of school at age 15 to work as an apprentice in a computer shop in Austria.</p></article>
